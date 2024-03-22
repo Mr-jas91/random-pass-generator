@@ -19,7 +19,7 @@ This is a simple Password Generator application built using React.js and Bootstr
 
 
 ```bash 
-git clone https://github.com/your-username/password-generator-react.git
+git clone https://github.com/Mr-jas91/random-pass-generator.git
 ```
 
 2. Navigate to the project directory:
